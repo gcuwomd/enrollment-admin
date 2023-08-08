@@ -1,0 +1,13 @@
+.el-menu-item>a {
+color: black;
+text-decoration: none;
+}
+.el-menu-item{
+    background-color: rgb(245, 245, 245);
+}
+.el-menu{
+    border: none !important;
+}
+.el-row{
+    width: 100%;
+}

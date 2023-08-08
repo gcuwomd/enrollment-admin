@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex {
+    display: flex;
+}
+
+.left {
+    float: left;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.align-items {
+    align-items: center;
+}
+
+.outside {
+    flex-wrap: wrap;
+}
+
+.top {
+    padding: 0;
+    border: 1px rgb(187, 187, 187) solid;
+}
+
+.nav {
+    border: 1px rgb(187, 187, 187) solid;
+}
+
+.lcon {
+    margin-left: 140px;
+    margin-top: -5px;
+}
+
+.lcon p {
+    margin: 0;
+    text-align: center;
+}
+
+input {
+    border: 1px rgb(187, 187, 187) solid;
+    outline: none;
+    padding-left: 10px;
+}
+
+.input div {
+    display: flex;
+    float: right;
+    align-items: center;
+    justify-content: center;
+    border: 1px rgb(187, 187, 187) solid;
+}
+
+.input {
+    position: absolute;
+    right: 15%;
+}
+
+.font {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px rgb(187, 187, 187) solid;
+    margin-left: 76%;
+}
+
+.font p {
+    margin: 0;
+}
